@@ -114,5 +114,5 @@ input:focus, select:focus, textarea:focus { border-color: var(--gold); box-shado
 .instagram-embed-wrap { display: flex; justify-content: center; }
 .instagram-embed-wrap .instagram-media { margin: 0 auto !important; max-width: 540px !important; min-width: 326px !important; width: 100% !important; }
 @media (max-width: 380px) { .instagram-embed-wrap .instagram-media { min-width: 0 !important; } }
-.social-link { align-items: center; display: inline-flex; gap: 8px; margin-top: 4px; }
-.social-link svg { flex: 0 0 auto; height: 18px; width: 18px; }
+.social-link { align-items: center; display: inline-flex; gap: 6px; margin-top: 4px; vertical-align: middle; }
+.social-link svg { flex: 0 0 auto; height: 14px; width: 14px; }
