@@ -116,3 +116,4 @@ input:focus, select:focus, textarea:focus { border-color: var(--gold); box-shado
 @media (max-width: 380px) { .instagram-embed-wrap .instagram-media { min-width: 0 !important; } }
 .social-link { align-items: center; display: inline-flex; gap: 6px; margin-top: 4px; vertical-align: middle; }
 .social-link svg { flex: 0 0 auto; height: 14px; width: 14px; }
+.credit-link { display: inline-block; margin-left: 10px; }
