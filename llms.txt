@@ -6,7 +6,7 @@ Luxury protective styling by Yulis serving the Miami, Florida area.
 
 - [/](/) – Home
 - [/services/](/services/) – Services: Knotless braids, Box braids, Feed-in cornrows, Goddess/boho braids, Twists, Bridal or event styling
-- [/locations/](/locations/) – Locations: 21346 SW 112th Ave, Cutler Bay, FL 33189
+- [/locations/](/locations/) – Locations: 20936 South Dixie Hwy, Cutler Bay, FL 33189
 - [/photos/](/photos/) – Portfolio gallery
 - [/about/](/about/) – About Yulis
 - [/blog/](/blog/) – Blog posts
@@ -23,7 +23,7 @@ Luxury protective styling by Yulis serving the Miami, Florida area.
 - Phone: +1 407-728-1422
 - WhatsApp: https://wa.me/14077281422
 - Instagram: @beautybyyulis
-- Address: 21346 SW 112th Ave, Cutler Bay, FL 33189
+- Address: 20936 South Dixie Hwy, Cutler Bay, FL 33189
 
 ## Technical
 
