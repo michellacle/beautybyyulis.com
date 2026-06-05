@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.braidsbymiami.com/sitemap.xml
-Host: www.braidsbymiami.com
+Sitemap: https://www.beautybyyulis.com/sitemap.xml
+Host: www.beautybyyulis.com

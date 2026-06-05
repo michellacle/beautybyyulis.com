@@ -1,4 +1,4 @@
-# Braids by Miami
+# BeautyByYulis
 
 Luxury protective styling by Yulis serving the Miami, Florida area.
 
@@ -28,5 +28,5 @@ Luxury protective styling by Yulis serving the Miami, Florida area.
 ## Technical
 
 - Static site hosted on GitHub Pages
-- Contact form submits to https://thinksmart.life/forms/braidsbymiami/submit
+- Contact form submits to https://thinksmart.life/forms/beautybyyulis/submit
 - Built by ThinkSmart.Life

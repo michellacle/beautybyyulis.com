@@ -36,7 +36,7 @@ if (contactForm) {
       formStatus.textContent = isSpanish ? "Enviando..." : "Submitting...";
     }
 
-    fetch("https://thinksmart.life/forms/braidsbymiami/submit", {
+    fetch("https://thinksmart.life/forms/beautybyyulis/submit", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(formData),
