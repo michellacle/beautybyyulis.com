@@ -72,3 +72,94 @@ if (contactForm) {
       });
   });
 }
+
+/* Share & Flyer Functions */
+function sharePage() {
+  const shareData = {
+    title: document.title,
+    text: document.querySelector('meta[name="description"]')?.content || '',
+    url: window.location.href
+  };
+  if (navigator.share) {
+    navigator.share(shareData).catch(function() {
+      copyToClipboard(window.location.href);
+    });
+  } else {
+    copyToClipboard(window.location.href);
+  }
+}
+
+function shareFlyer(label, imgSrc) {
+  const shareData = {
+    title: label + ' | ' + document.title,
+    text: label + ' - ' + (document.querySelector('meta[name="description"]')?.content || ''),
+    url: window.location.href
+  };
+  if (navigator.share) {
+    navigator.share(shareData).catch(function() {
+      copyToClipboard(window.location.href);
+    });
+  } else {
+    copyToClipboard(window.location.href);
+  }
+}
+
+function copyToClipboard(text) {
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(function() {
+      showToast('Link copied to clipboard!');
+    }).catch(function() {
+      fallbackCopy(text);
+    });
+  } else {
+    fallbackCopy(text);
+  }
+}
+
+function fallbackCopy(text) {
+  const ta = document.createElement('textarea');
+  ta.value = text;
+  ta.style.position = 'fixed';
+  ta.style.left = '-9999px';
+  document.body.appendChild(ta);
+  ta.select();
+  try { document.execCommand('copy'); showToast('Link copied to clipboard!'); }
+  catch(e) { showToast('Could not copy link.'); }
+  document.body.removeChild(ta);
+}
+
+function showToast(message) {
+  const existing = document.querySelector('.flyer-toast');
+  if (existing) existing.remove();
+  const toast = document.createElement('div');
+  toast.className = 'flyer-toast';
+  toast.textContent = message;
+  toast.style.cssText = 'position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#1a1a1a;color:#fff;padding:12px 24px;border-radius:8px;z-index:10000;font-family:Inter,sans-serif;font-size:14px;opacity:0;transition:opacity 0.3s;';
+  document.body.appendChild(toast);
+  requestAnimationFrame(function() { toast.style.opacity = '1'; });
+  setTimeout(function() { toast.style.opacity = '0'; setTimeout(function() { toast.remove(); }, 300); }, 2000);
+}
+
+function openFlyerLightbox(imgSrc) {
+  const overlay = document.createElement('div');
+  overlay.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.9);z-index:9999;display:flex;align-items:center;justify-content:center;cursor:pointer;padding:20px;';
+  overlay.onclick = function() { overlay.remove(); };
+  const img = document.createElement('img');
+  img.src = imgSrc;
+  img.alt = 'Flyer';
+  img.style.cssText = 'max-width:90vw;max-height:90vh;object-fit:contain;border-radius:4px;';
+  overlay.appendChild(img);
+  document.body.appendChild(overlay);
+}
+
+/* Init social share links */
+(function() {
+  var fbLink = document.getElementById('share-facebook');
+  var waLink = document.getElementById('share-whatsapp');
+  if (fbLink) {
+    fbLink.href = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(window.location.href);
+  }
+  if (waLink) {
+    waLink.href = 'https://wa.me/?text=' + encodeURIComponent(document.title + ' ' + window.location.href);
+  }
+})();
