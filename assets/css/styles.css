@@ -242,6 +242,13 @@ input:focus, select:focus, textarea:focus { border-color: var(--gold); box-shado
   min-height: 40px;
   padding: 10px 16px;
 }
+
+/* Single flyer card — centered, wider */
+.flyer-card--single {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
 .page-share {
   margin-top: 3rem;
   padding-top: 2rem;
