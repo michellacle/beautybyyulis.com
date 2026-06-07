@@ -245,7 +245,7 @@ input:focus, select:focus, textarea:focus { border-color: var(--gold); box-shado
 
 /* Single flyer card — centered, narrower display */
 .flyer-card--single {
-  max-width: 280px;
+  max-width: 330px;
   margin: 0 auto;
 }
 
