@@ -1,150 +1,251 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<ns0:urlset xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ns0="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:ns2="http://www.google.com/schemas/sitemap-image/1.1" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.beautybyyulis.com/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/"/>
-    <image:image>
-      <image:loc>https://www.beautybyyulis.com/assets/images/hero-braids-miami.png</image:loc>
-      <image:title>Luxury Miami braiding by Beauty by Yulis</image:title>
-      <image:caption>Luxury hair braiding and protective styles by Yulis in South Miami and the Florida Keys.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.beautybyyulis.com/es/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.beautybyyulis.com/"/>
+    <html:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/"/>
+    <ns2:image>
+      <ns2:loc>https://www.beautybyyulis.com/assets/images/hero-braids-miami.png</ns2:loc>
+      <ns2:title>Luxury Miami braiding by Beauty by Yulis</ns2:title>
+      <ns2:caption>Luxury hair braiding and protective styles by Yulis in South Miami and the Florida Keys.</ns2:caption>
+    </ns2:image>
   </url>
   <url>
     <loc>https://www.beautybyyulis.com/services/</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/services/"/>
-  </url>
-  <url>
-    <loc>https://www.beautybyyulis.com/es/services/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.beautybyyulis.com/services/"/>
+    <html:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/services/"/>
   </url>
   <url>
     <loc>https://www.beautybyyulis.com/locations/</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/locations/"/>
-  </url>
-  <url>
-    <loc>https://www.beautybyyulis.com/es/locations/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.beautybyyulis.com/locations/"/>
+    <html:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/locations/"/>
   </url>
   <url>
     <loc>https://www.beautybyyulis.com/contact/</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/contact/"/>
-  </url>
-  <url>
-    <loc>https://www.beautybyyulis.com/es/contact/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.beautybyyulis.com/contact/"/>
+    <html:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/contact/"/>
   </url>
   <url>
     <loc>https://www.beautybyyulis.com/about/</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/about/"/>
-  </url>
-  <url>
-    <loc>https://www.beautybyyulis.com/es/about/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.beautybyyulis.com/about/"/>
+    <html:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/about/"/>
   </url>
   <url>
     <loc>https://www.beautybyyulis.com/blog/</loc>
-    <lastmod>2026-05-25</lastmod>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/blog/"/>
-  </url>
-  <url>
-    <loc>https://www.beautybyyulis.com/es/blog/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.beautybyyulis.com/blog/"/>
-  </url>
-  <url>
-    <loc>https://www.beautybyyulis.com/blog/now-open-cutler-bay/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/blog/ahora-abierto-cutler-bay/"/>
-    <image:image>
-      <image:loc>https://www.beautybyyulis.com/assets/images/yulis-and-friends-boho-braids.jpg</image:loc>
-      <image:title>Boho braids by Yulis in Cutler Bay, FL</image:title>
-      <image:caption>Local portfolio photo of boho braids and protective styling by Yulis for Cutler Bay clients.</image:caption>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.beautybyyulis.com/es/blog/ahora-abierto-cutler-bay/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.beautybyyulis.com/blog/now-open-cutler-bay/"/>
+    <html:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/blog/"/>
   </url>
   <url>
     <loc>https://www.beautybyyulis.com/photos/</loc>
-    <lastmod>2026-05-25</lastmod>
-    <changefreq>weekly</changefreq>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/photos/"/>
-    <image:image>
-      <image:loc>https://www.beautybyyulis.com/assets/images/yulis-and-friends-boho-braids.jpg</image:loc>
-      <image:title>Boho braid finish by Yulis in Cutler Bay</image:title>
-      <image:caption>Portfolio photo of long boho braids by Yulis for Cutler Bay and South Miami clients.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.beautybyyulis.com/assets/images/beautiful-young-lady-long-braids.jpg</image:loc>
-      <image:title>Long protective braids by Yulis</image:title>
-      <image:caption>Clean long protective braid style by Yulis at BeautyByYulis.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.beautybyyulis.com/assets/images/guy-scalp-braid-cool-pattern.jpg</image:loc>
-      <image:title>Men's scalp braid pattern by Yulis</image:title>
-      <image:caption>Detailed scalp braid pattern and precise parts by Yulis in Cutler Bay.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.beautybyyulis.com/assets/images/child-head-braid-cool-pattern.jpg</image:loc>
-      <image:title>Kids braid design by Yulis</image:title>
-      <image:caption>Child-friendly scalp braid design with clean parts and gentle tension.</image:caption>
-    </image:image>
+    <html:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/photos/"/>
+    <ns2:image>
+      <ns2:loc>https://www.beautybyyulis.com/assets/images/yulis-and-friends-boho-braids.jpg</ns2:loc>
+      <ns2:title>Boho braid finish by Yulis in Cutler Bay</ns2:title>
+      <ns2:caption>Portfolio photo of long boho braids by Yulis for Cutler Bay and South Miami clients.</ns2:caption>
+    </ns2:image>
+    <ns2:image>
+      <ns2:loc>https://www.beautybyyulis.com/assets/images/beautiful-young-lady-long-braids.jpg</ns2:loc>
+      <ns2:title>Long protective braids by Yulis</ns2:title>
+      <ns2:caption>Clean long protective braid style by Yulis at BeautyByYulis.</ns2:caption>
+    </ns2:image>
+    <ns2:image>
+      <ns2:loc>https://www.beautybyyulis.com/assets/images/guy-scalp-braid-cool-pattern.jpg</ns2:loc>
+      <ns2:title>Men's scalp braid pattern by Yulis</ns2:title>
+      <ns2:caption>Detailed scalp braid pattern and precise parts by Yulis in Cutler Bay.</ns2:caption>
+    </ns2:image>
+    <ns2:image>
+      <ns2:loc>https://www.beautybyyulis.com/assets/images/child-head-braid-cool-pattern.jpg</ns2:loc>
+      <ns2:title>Kids braid design by Yulis</ns2:title>
+      <ns2:caption>Child-friendly scalp braid design with clean parts and gentle tension.</ns2:caption>
+    </ns2:image>
   </url>
   <url>
-    <loc>https://www.beautybyyulis.com/es/photos/</loc>
-    <lastmod>2026-05-25</lastmod>
+    <loc>https://www.beautybyyulis.com/blog/now-open-cutler-bay/</loc>
+    <lastmod>2026-06-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.beautybyyulis.com/photos/"/>
-    <image:image>
-      <image:loc>https://www.beautybyyulis.com/assets/images/yulis-and-friends-boho-braids.jpg</image:loc>
-      <image:title>Fotos de trenzas boho por Yulis en Cutler Bay</image:title>
-      <image:caption>Portafolio de trenzas boho y estilos protectores por Yulis para clientas de Cutler Bay.</image:caption>
-    </image:image>
+    <priority>0.9</priority>
+    <html:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/blog/ahora-abierto-cutler-bay/"/>
+    <ns2:image>
+      <ns2:loc>https://www.beautybyyulis.com/assets/images/yulis-and-friends-boho-braids.jpg</ns2:loc>
+      <ns2:title>Boho braids by Yulis in Cutler Bay, FL</ns2:title>
+      <ns2:caption>Local portfolio photo of boho braids and protective styling by Yulis for Cutler Bay clients.</ns2:caption>
+    </ns2:image>
   </url>
-</urlset>
+  <url>
+    <loc>https://www.beautybyyulis.com/box-braids-cutler-bay/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/box-braids-doral-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/box-braids-homestead-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/box-braids-kendall-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/box-braids-miami/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/braids-and-twists-cutler-bay/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/braids-and-twists-homestead-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/braids-and-twists-miami/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/bridal-styling-cutler-bay/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/bridal-styling-homestead-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/bridal-styling-miami/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/feed-in-cornrows-cutler-bay/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/feed-in-cornrows-homestead-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/feed-in-cornrows-kendall-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/feed-in-cornrows-miami/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/goddess-braids-cutler-bay/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/goddess-braids-homestead-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/goddess-braids-kendall-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/goddess-braids-miami/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/knotless-braids-coral-gables-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/knotless-braids-cutler-bay/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/knotless-braids-doral-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/knotless-braids-homestead-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/knotless-braids-kendall-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/knotless-braids-miami/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/knotless-braids-palmetto-bay/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/knotless-braids-pinecrest-fl/</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</ns0:urlset>
