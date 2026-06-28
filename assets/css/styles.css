@@ -125,6 +125,27 @@ input:focus, select:focus, textarea:focus { border-color: var(--gold); box-shado
 .instagram-embed-wrap { display: flex; justify-content: center; }
 .instagram-embed-wrap .instagram-media { margin: 0 auto !important; max-width: 540px !important; min-width: 326px !important; width: 100% !important; }
 @media (max-width: 380px) { .instagram-embed-wrap .instagram-media { min-width: 0 !important; } }
+
+/* Hero Instagram Embed */
+.hero-instagram-embed {
+  border-radius: 0 0 0 90px;
+  height: 640px;
+  overflow: hidden;
+  position: relative;
+}
+.hero-instagram-embed .instagram-media {
+  height: 100% !important;
+  margin: 0 !important;
+  max-width: none !important;
+  width: 100% !important;
+}
+.hero-instagram-embed .instagram-media .instagram-media-rendered {
+  height: 100%;
+}
+.hero-instagram-embed iframe {
+  height: 100% !important;
+  max-height: 640px !important;
+}
 .social-link { align-items: center; display: inline-flex; gap: 6px; margin-top: 4px; vertical-align: middle; }
 .social-link svg { flex: 0 0 auto; height: 14px; width: 14px; }
 .credit-link { display: inline-block; margin-left: 10px; }
