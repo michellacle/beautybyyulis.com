@@ -162,7 +162,7 @@ input:focus, select:focus, textarea:focus { border-color: var(--gold); box-shado
 .blog-content ul { margin: 0 0 1.2rem; padding-left: 1.4rem; }
 .blog-content li { margin-bottom: 0.6rem; }
 .blog-image { margin: 2rem 0; border-radius: 8px; overflow: hidden; border: 1px solid var(--line); }
-.blog-image img { aspect-ratio: 16 / 10; height: auto; object-fit: cover; width: 100%; display: block; }
+.blog-image img { width: 100%; height: auto; display: block; }
 .photo-hero { background: linear-gradient(180deg, var(--white), rgba(247, 239, 229, 0.82)); }
 .photo-grid { display: grid; gap: 18px; grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .photo-card { background: var(--white); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
