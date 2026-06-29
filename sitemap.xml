@@ -42,10 +42,34 @@
   </url>
   <url>
     <loc>https://www.beautybyyulis.com/blog/</loc>
-    <lastmod>2026-06-27</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
     <html:link rel="alternate" hreflang="es" href="https://www.beautybyyulis.com/es/blog/"/>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/blog/now-open-cutler-bay/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/blog/how-to-prep-hair-before-braid-appointment/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/blog/making-braids-last-in-miami-humidity/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.beautybyyulis.com/blog/knotless-vs-box-braids-choosing-your-look/</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.beautybyyulis.com/photos/</loc>
